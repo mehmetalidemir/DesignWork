@@ -1,0 +1,36 @@
+
+/* Class = "UITabBarItem"; title = "Sepet"; ObjectID = "1ub-01-YRf"; */
+"1ub-01-YRf.title" = "Sepet";
+
+/* Class = "UIButton"; configuration.title = "Kadın"; ObjectID = "6yB-H0-uII"; */
+"6yB-H0-uII.configuration.title" = "Kadın";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6yB-H0-uII"; */
+"6yB-H0-uII.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "FLO Plus"; ObjectID = "7zb-ar-smh"; */
+"7zb-ar-smh.text" = "FLO Plus";
+
+/* Class = "UITabBarItem"; title = "Anasayfa"; ObjectID = "FIw-5f-otd"; */
+"FIw-5f-otd.title" = "Anasayfa";
+
+/* Class = "UITextField"; placeholder = "🔍 Ara"; ObjectID = "Fpe-ik-Xdr"; */
+"Fpe-ik-Xdr.placeholder" = "🔍 Ara";
+
+/* Class = "UITabBarItem"; title = "Kategori"; ObjectID = "H4Y-e1-doS"; */
+"H4Y-e1-doS.title" = "Kategori";
+
+/* Class = "UILabel"; text = "Sana Özel"; ObjectID = "IdQ-PX-Bg5"; */
+"IdQ-PX-Bg5.text" = "Sana Özel";
+
+/* Class = "UILabel"; text = "Ayağında Gör"; ObjectID = "dZC-xb-7Zq"; */
+"dZC-xb-7Zq.text" = "Ayağında Gör";
+
+/* Class = "UILabel"; text = "Kolay Mağaza"; ObjectID = "g6d-OJ-mtJ"; */
+"g6d-OJ-mtJ.text" = "Kolay Mağaza";
+
+/* Class = "UITabBarItem"; title = "Favori"; ObjectID = "r4x-ne-Wau"; */
+"r4x-ne-Wau.title" = "Favori";
+
+/* Class = "UITabBarItem"; title = "Hesabım"; ObjectID = "vBb-2V-2Dv"; */
+"vBb-2V-2Dv.title" = "Hesabım";
